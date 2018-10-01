@@ -1,1 +1,2 @@
 Start of feature branch
+End of feature branch
